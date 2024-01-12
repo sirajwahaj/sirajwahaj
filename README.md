@@ -1,16 +1,58 @@
-### Hi there 👋
+# Sirajulhaq Wahaj's Portfolio
 
-<!--
-**sirajwahaj/sirajwahaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Sirajulhaq Wahaj, a passionate [Your Profession/Field] based in [Your Location]. I have a strong background in [Your Expertise], and I am constantly exploring and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Project 1: [Project Name]
+
+- Description: Brief description of the project.
+- Technologies Used: List of technologies/tools/languages used.
+- Demo: [Link to Demo (if applicable)]
+- GitHub Repository: [Link to GitHub Repo]
+
+### Project 2: [Project Name]
+
+- Description: Brief description of the project.
+- Technologies Used: List of technologies/tools/languages used.
+- Demo: [Link to Demo (if applicable)]
+- GitHub Repository: [Link to GitHub Repo]
+
+...
+
+## Skills
+
+- List some of your key skills and areas of expertise.
+
+## Education
+
+- [Your Degree] in [Your Major], [University Name], Year of Graduation
+
+## Work Experience
+
+- [Job Title], [Company Name], Dates
+  - Brief description of your responsibilities and achievements.
+
+## Contact
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sirajwahaj/)
+- Email: siraj.wahaj@outlook.com
+- Portfolio Website: [Your Portfolio Website (if applicable)]
+
+## Certifications
+
+- [Certification Name], Issuing Organization, Year
+
+## Awards and Achievements
+
+- List any relevant awards or achievements.
+
+## Contribution and Feedback
+
+Feel free to contribute to my projects or provide feedback. I'm open to collaboration and always looking for ways to improve.
+
+If you find my work helpful or interesting, don't forget to ⭐️ the repositories!
+
+Thank you for visiting my GitHub profile!
