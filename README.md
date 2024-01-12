@@ -4,6 +4,9 @@
 
 Hello! I'm Sirajulhaq Wahaj, a passionate [Your Profession/Field] based in [Your Location]. I have a strong background in [Your Expertise], and I am constantly exploring and learning new technologies.
 
+<img align="left" width=47%  src="https://github-readme-stats.vercel.app/api?username=sirajwahaj&show_icons=true&theme=transparent"/>
+<img align="left" width=47%  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajwahaj&layout=compact&show_icons=true&theme=transparent"/>
+
 ## Projects
 
 ### Project 1: [Project Name]
@@ -43,11 +46,7 @@ Hello! I'm Sirajulhaq Wahaj, a passionate [Your Profession/Field] based in [Your
 
 ## Certifications
 
-- [Certification Name], Issuing Organization, Year
-
-## Awards and Achievements
-
-- List any relevant awards or achievements.
+- IT Essentials, Cisco, Dec-2023
 
 ## Contribution and Feedback
 
