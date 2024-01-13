@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Sirajulhaq Wahaj, a passionate programmer based in Malmo, Sweden. I major is machine learning, and I'm constantly exploring and learning new technologies.
+Hello! I'm Sirajulhaq Wahaj, a passionate programmer based in Malmo, Sweden. My major is machine learning, and I'm constantly exploring and learning new technologies.
 
 <img align="left" width=47% hight=20px  src="https://github-readme-stats.vercel.app/api?username=sirajwahaj&show_icons=true&theme=transparent"/>
 <img align="left" width=47%  hight=20px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajwahaj&layout=compact&show_icons=true&theme=transparent"/>
