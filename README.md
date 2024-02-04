@@ -77,7 +77,7 @@ Hello! I'm Sirajulhaq Wahaj, a passionate programmer based in Malmo, Sweden. My 
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sirajwahaj/)
 - Email: siraj.wahaj@outlook.com
-- Portfolio Website: [Your Portfolio Website (if applicable)]
+- Portfolio Website: [coming soon]
 
 ## Certifications
 
