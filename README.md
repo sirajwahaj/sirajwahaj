@@ -51,12 +51,6 @@ Hello! I'm Sirajulhaq Wahaj, a passionate programmer based in Malmo, Sweden. My 
     - Resolved technical incidents through the use of experience, available documentation, and tools.
     - Bash scripting to schedule and automate processes, including full and incremental backups.
 
-## Contact
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sirajwahaj/)
-- Email: siraj.wahaj@outlook.com
-- Portfolio Website: [coming soon]
-
 ## Certifications
 
 - **IT Essentials**, Cisco, Dec-2023
