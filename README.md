@@ -15,39 +15,17 @@ Hello! I'm Sirajulhaq Wahaj, a passionate programmer based in Malmo, Sweden. My 
 
 ## Skills
 
-### Programming Languages and Technologies:
+    OS: Microsoft 365, Windows 10, Server 2019/2022, Linux
+    Scripting: PowerShell, Bash, Python, Java
+    Virtualization: Hyper V, Xen, Docker, Kubernetes
+    Security: IT Security, Cisco Cybersecurity
+    Networking: Troubleshooting, pfSense, IPtable, Samba, ACL, LVM, RAID
+    Monitoring: Linux Tools, Bareos
+    DB: MySQL, PostgreSQL
+    Web: HTML, CSS, PHP
+    Project Management: Agile PM
+    Certifications: Azure Fundamentals, Cisco IT essentials
 
-- Python
-- Shell Scripting
-- Java
-- Microsoft 365
-- Win Server 2019/2022
-- IT-security
-- PowerShell programming
-- Cloud MTA
-- Azure
-- Cisco Cybersecurity
-- Hyper V
-- NetAcad Tracks
-- Linux
-- pfSense & IPtable
-- Linux Backups (Bareos)
-- Linux Monitoring tools
-- Database Administration
-- Virtualization Xen Hypervisor
-- UCS
-- Samba
-- ACL
-- LVM
-- RAID
-- Network troubleshooting
-
-### Web Development:
-
-- HTML
-- CSS
-- PHP
-- SQL (MySQL, PostgreSQL, Microsoft SQL Server)
 
 ## Education
 
