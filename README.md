@@ -9,7 +9,7 @@ Hello! I'm Sirajulhaq Wahaj, a passionate programmer based in Malmo, Sweden. My 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,bash,flask,html,laravel,linux,mysql,php,postgres,postman,powershell,py,pandas,java,pfsense,azure" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,bash,flask,html,laravel,linux,mysql,php,postgres,postman,powershell,py,pandas,java,pfsense,azure,postman,kubernetes" />
   </a>
 </p>
 
