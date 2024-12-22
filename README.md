@@ -2,8 +2,20 @@
 
 ## About Me
 
-Hello! I'm Sirajulhaq Wahaj, a passionate programmer based in Malmo, Sweden. My major is IT support, and I'm constantly exploring and learning new technologies.
-
+I am a dedicated and detail-oriented individual currently pursuing a Master’s degree in Data Science at Malmö
+University. With a strong academic foundation in programming, operating systems, and network administration, I
+have developed practical skills that align with the demands of modern IT environments.
+My hands-on experience with Linux and Windows servers, virtualization tools such as Docker and Hyper-V, and
+network security protocols has prepared me to manage and optimize complex systems effectively. During my role as
+an IT Support Intern, I honed my ability to troubleshoot, provide technical guidance, and create clear documentation
+to support users and team members alike.
+What drives me is the challenge of creating reliable, secure, and efficient IT infrastructures. My scripting abilities
+with Bash and PowerShell allow me to automate repetitive tasks, improving productivity and system reliability.
+Fluent in English and Swedish, I thrive in diverse, collaborative environments where communication and teamwork
+are essential.
+I am passionate about continuously learning and adapting to new technologies, ensuring that I stay ahead in this
+fast-evolving field. My commitment to problem-solving and delivering impactful solutions makes me an asset to any
+organization.
 <img align="left" width=47% hight=20px  src="https://github-readme-stats.vercel.app/api?username=sirajwahaj&show_icons=true&theme=transparent"/>
 <img align="left" width=47%  hight=20px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajwahaj&layout=compact&show_icons=true&theme=transparent"/>
 
