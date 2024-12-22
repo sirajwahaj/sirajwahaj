@@ -1,85 +1,111 @@
-# Sirajulhaq Wahaj's Portfolio
+# 🌟 Sirajulhaq Wahaj's Portfolio 🌟
 
-## About Me
+## 👨‍💻 About Me
 
-I am a highly motivated IT professional with expertise in data science, machine learning operations (MLOps), and IT infrastructure management. Currently pursuing a Master’s degree in Data Science at Malmö University, I bring a solid foundation in statistics, programming, and machine learning algorithms, coupled with practical experience in server management, data pipelines, and automation scripting.
+I am a **Data Science** enthusiast and **IT professional** with expertise in **MLOps**, **server management**, and **automation scripting**. Currently pursuing a **Master’s in Data Science** at Malmö University, I specialize in transforming complex problems into impactful solutions using technology.
 
-My technical skills span across operating systems, virtualization tools, and networking security protocols, with a hands-on understanding of Linux, Docker, Kubernetes, and Azure. My professional experience includes roles in IT support and engineering, where I have optimized workflows, automated tasks, and maintained complex systems.
+With strong technical skills in **Linux, Docker, Kubernetes, and Azure**, I thrive on optimizing workflows and delivering high-quality results. My professional journey spans roles in **IT support**, **engineering**, and **web development**, showcasing a passion for problem-solving, collaboration, and continuous learning.
 
-Passionate about solving challenging problems, I thrive in collaborative environments and continuously seek to learn and adapt to emerging technologies. Fluent in English, Swedish, Pashto, Farsi, and Dari, I am well-equipped to work in diverse, multicultural teams.
+🌍 **Languages**: Fluent in English, Swedish, Pashto, Farsi, and Dari, enabling me to thrive in diverse, multicultural teams.
 
-If you're interested in contributing or collaborating, feel free to reach out or explore my projects!
+✨ If you're looking for a collaborator, contributor, or someone to brainstorm innovative solutions, feel free to connect!
 
-<img align="left" width="47%" height="20px" src="https://github-readme-stats.vercel.app/api?username=sirajwahaj&show_icons=true&theme=transparent"/>
-<img align="left" width="47%" height="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajwahaj&layout=compact&show_icons=true&theme=transparent"/>
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,bash,flask,html,laravel,linux,mysql,php,postgres,postman,powershell,py,pandas,java,azure,kubernetes,githubactions,prometheus,jenkins,grafana,github,figma,discord,gitlab,linkedin" />
-  </a>
-</p>
+<div align="center">
+  <img align="center" width="47%" height="150px" src="https://github-readme-stats.vercel.app/api?username=sirajwahaj&show_icons=true&theme=radical" />
+  <img align="center" width="47%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajwahaj&layout=compact&show_icons=true&theme=radical" />
+</div>
 
-## Skills
+---
 
-- **Programming & Scripting**: Python, Bash, PowerShell, Java, PHP
-- **Machine Learning & MLOps**: Regression, Classification, Docker, Kubernetes, CI/CD
-- **Databases**: MySQL, PostgreSQL
-- **OS**: Linux (Ubuntu, CentOS), Windows Server 2019/2022
-- **Virtualization & Cloud**: Docker, Kubernetes, Xen, Azure, Hyper-V
-- **Networking & Security**: pfSense, IPtable, Samba, IT Security, Cisco Cybersecurity
-- **Web Development**: HTML, CSS, PHP (CodeIgniter Framework)
-- **Monitoring**: Linux Tools, Bareos Backup Systems
-- **Project Management**: Agile Methodologies
-- **Certifications**: Azure Fundamentals, Cisco IT Essentials
+## 🛠️ Technical Skills
 
-## Education
+### Programming & Scripting
+- **Languages**: Python, Bash, PowerShell, Java, PHP  
+- **Machine Learning**: Regression, Classification, Docker, Kubernetes, CI/CD
 
-- **Master’s in Data Science**  
-  Malmö University, Sweden  
-  *(Expected: June 2026)*  
+### Databases
+- **MySQL, PostgreSQL**
 
-- **DevOps Engineer (Paused)**  
-  Jensen Yrkeshögskola, Sweden  
-  *(Paused to prioritize Data Science studies; Expected completion: 2026)*  
+### Operating Systems
+- **Linux (Ubuntu, CentOS), Windows Server 2019/2022**
 
-- **IT Administration**  
-  Technical University of Berlin, Germany  
-  *(March 2018 – September 2018)*  
+### Virtualization & Cloud
+- **Docker, Kubernetes, Xen, Azure, Hyper-V**
 
-- **Bachelor of Science in Information Technology**  
-  Kabul Polytechnic University, Afghanistan  
-  *(2013 – 2016)*  
+### Networking & Security
+- **pfSense, IPtable, Samba, IT Security, Cisco Cybersecurity**
 
-## Work Experience
+### Web Development
+- **HTML, CSS, PHP (CodeIgniter Framework)**
 
-- **IT Support Intern**  
-  ReDi School of Digital Integration, Malmö, Sweden  
-  *(March 2024 – May 2024)*  
-    - Configured and maintained classroom computer systems.  
-    - Delivered personalized technical assistance to improve digital literacy.  
-    - Documented recurring issues and created a resource guide.  
+### Monitoring & Backup
+- **Linux Tools, Bareos Backup Systems**
 
-- **IT Engineer**  
-  Afghanistan High Security Printing, Kabul, Afghanistan  
-  *(2019 – 2020)*  
-    - Installed and maintained Linux and Windows servers.  
-    - Managed virtual machines and automated backups using Bash scripting.  
-    - Oversaw IT infrastructure and promptly resolved technical issues.  
+### Project Management
+- **Agile Methodologies**
 
-- **PHP Developer**  
-  Afghanistan Development and Registry Addressing Service (ADRAS), Kabul, Afghanistan  
-  *(September 2017 – December 2017)*  
-    - Developed web applications using the CodeIgniter PHP framework.  
-    - Improved system performance through rigorous testing and debugging.  
+### Certifications
+- **Microsoft Azure Fundamentals, Cisco IT Essentials**
 
-## Languages
+---
+
+## 🎓 Education
+
+🎓 **Master’s in Data Science**  
+📍 Malmö University, Sweden *(Expected: June 2026)*  
+
+🎓 **DevOps Engineer** *(Paused)*  
+📍 Jensen Yrkeshögskola, Sweden *(Expected completion: 2026)*  
+
+🎓 **IT Administration**  
+📍 Technical University of Berlin, Germany *(March 2018 – September 2018)*  
+
+🎓 **Bachelor of Science in Information Technology**  
+📍 Kabul Polytechnic University, Afghanistan *(2013 – 2016)*  
+
+---
+
+## 💼 Work Experience
+
+### **IT Support Intern**  
+📍 ReDi School of Digital Integration, Malmö, Sweden *(March 2024 – May 2024)*  
+- Configured and maintained classroom computer systems.  
+- Delivered personalized technical assistance to improve digital literacy.  
+- Documented recurring issues and created a resource guide.
+
+### **IT Engineer**  
+📍 Afghanistan High Security Printing, Kabul, Afghanistan *(2019 – 2020)*  
+- Installed and maintained Linux and Windows servers.  
+- Managed virtual machines and automated backups using Bash scripting.  
+- Oversaw IT infrastructure and promptly resolved technical issues.
+
+### **PHP Developer**  
+📍 Afghanistan Development and Registry Addressing Service (ADRAS), Kabul, Afghanistan *(September 2017 – December 2017)*  
+- Developed web applications using the CodeIgniter PHP framework.  
+- Improved system performance through rigorous testing and debugging.
+
+---
+
+## 🌍 Languages
 
 - **English**: Fluent  
 - **Swedish**: Upper-Intermediate  
 - **Pashto, Farsi, Dari**: Fluent  
 
-## Contribution and Feedback
+---
 
-Feel free to explore my repositories, contribute, or provide feedback. I'm always looking to collaborate and improve! If you enjoy my work, don't forget to ⭐️ my repositories.  
+## 🤝 Contribution and Feedback
 
-Thank you for visiting my profile!
+🚀 **Explore my repositories** for exciting projects in **Data Science, MLOps, and IT solutions**.  
+✨ If you like my work, don’t forget to **⭐️ star** my repositories!  
+
+💡 I'm always open to **collaboration** and **feedback** to make my projects even better. Let’s build something amazing together!
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/sirajwahaj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/sirajwahaj" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
+</p>
