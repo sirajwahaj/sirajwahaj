@@ -1,14 +1,12 @@
 # 🌟 Sirajulhaq Wahaj's Portfolio 🌟
 
-## 👨‍💻 About Me
+##  About Me
 
-I am a **Data Science** enthusiast and **IT professional** with expertise in **MLOps**, **server management**, and **automation scripting**. Currently pursuing a **Master’s in Data Science** at Malmö University, I specialize in transforming complex problems into impactful solutions using technology.
+I am a DevOps Engineer passionate about building scalable systems, automating workflows, and ensuring reliable deployments. With expertise in CI/CD pipelines, container orchestration, and cloud platforms, I focus on creating efficient, secure, and high-performing infrastructure.
 
-With strong technical skills in **Linux, Docker, Kubernetes, and Azure**, I thrive on optimizing workflows and delivering high-quality results. My professional journey spans roles in **IT support**, **engineering**, and **web development**, showcasing a passion for problem-solving, collaboration, and continuous learning.
+Currently pursuing a DevOps Engineer program at Jensen Yrkeshögskola, Sweden, I bring hands-on experience in Linux and Windows server administration, virtualization, automation scripting, and monitoring solutions. I thrive on optimizing complex systems and collaborating with teams to deliver seamless deployments.
 
-🌍 **Languages**: Fluent in English, Swedish, Pashto, Farsi, and Dari, enabling me to thrive in diverse, multicultural teams.
-
-✨ If you're looking for a collaborator, contributor, or someone to brainstorm innovative solutions, feel free to connect!
+Languages: English (Fluent), Swedish (Upper-Intermediate), Pashto, Farsi, Dari (Fluent)
 
 ---
 
@@ -19,89 +17,70 @@ With strong technical skills in **Linux, Docker, Kubernetes, and Azure**, I thri
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
+### DevOps & Automation
+- Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+- Ansible, Terraform, Helm
+### Cloud & Virtualization
+- Azure, AWS, Hyper-V, Xen
 ### Programming & Scripting
-- **Languages**: Python, Bash, PowerShell, Java, PHP  
-- **Machine Learning**: Regression, Classification, Docker, Kubernetes, CI/CD
-
-### Databases
-- **MySQL, PostgreSQL**
-
-### Operating Systems
-- **Linux (Ubuntu, CentOS), Windows Server 2019/2022**
-
-### Virtualization & Cloud
-- **Docker, Kubernetes, Xen, Azure, Hyper-V**
-
-### Networking & Security
-- **pfSense, IPtable, Samba, IT Security, Cisco Cybersecurity**
-
-### Web Development
-- **HTML, CSS, PHP (CodeIgniter Framework)**
-
+- Python, Bash, PowerShell, PHP, Java
+### Networking (Basic)
+- IP Configuration, DHCP, DNS, Subnetting, Firewall Rules, VLAN 
 ### Monitoring & Backup
-- **Linux Tools, Bareos Backup Systems**
-
+- Prometheus, Grafana, Bareos Backup Systems
+### Databases 
+- MySQL, PostgreSQL
+### Operating Systems
+- Linux (Ubuntu, CentOS), Windows Server 2019/2022
 ### Project Management
-- **Agile Methodologies**
-
+- Agile Methodologies
 ### Certifications
-- **Microsoft Azure Fundamentals, Cisco IT Essentials**
+- Microsoft Azure Fundamentals, Cisco IT Essentials
 
 ---
 
 ## 🎓 Education
 
-🎓 **Master’s in Data Science**  
-📍 Malmö University, Sweden *(Expected: June 2026)*  
+**DevOps Engineer**  
+Jensen Yrkeshögskola, Sweden (Aug 2024 – Jun 2026 Expected) 
 
-🎓 **DevOps Engineer** *(Paused)*  
-📍 Jensen Yrkeshögskola, Sweden *(Expected completion: 2026)*  
+**IT Administration**  
+Technical University of Berlin, Germany (Mar 2018 – Sep 2018) 
 
-🎓 **IT Administration**  
-📍 Technical University of Berlin, Germany *(March 2018 – September 2018)*  
-
-🎓 **Bachelor of Science in Information Technology**  
-📍 Kabul Polytechnic University, Afghanistan *(2013 – 2016)*  
+**Bachelor in Information Technology**  
+Polytechnic University (2013 – 2016)
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **IT Support Intern**  
-📍 ReDi School of Digital Integration, Malmö, Sweden *(March 2024 – May 2024)*  
+ReDi School of Digital Integration, Malmö, Sweden *(March 2024 – May 2024)*  
 - Configured and maintained classroom computer systems.  
 - Delivered personalized technical assistance to improve digital literacy.  
 - Documented recurring issues and created a resource guide.
 
 ### **IT Engineer**  
-📍 Afghanistan High Security Printing, Kabul, Afghanistan *(2019 – 2020)*  
+ High Security Printing House, Kabul *(2019 – 2020)*  
 - Installed and maintained Linux and Windows servers.  
 - Managed virtual machines and automated backups using Bash scripting.  
-- Oversaw IT infrastructure and promptly resolved technical issues.
+- Improved network reliability through basic configuration and troubleshooting.
 
 ### **PHP Developer**  
-📍 Afghanistan Development and Registry Addressing Service (ADRAS), Kabul, Afghanistan *(September 2017 – December 2017)*  
+Development and Registry Addressing Service, Kabul *(September 2017 – December 2017)*  
 - Developed web applications using the CodeIgniter PHP framework.  
 - Improved system performance through rigorous testing and debugging.
 
----
 
-## 🌍 Languages
 
-- **English**: Fluent  
-- **Swedish**: Upper-Intermediate  
-- **Pashto, Farsi, Dari**: Fluent  
+## Contribution and Feedback
 
----
+Explore my repositories for DevOps projects, including automation, CI/CD pipelines, and infrastructure management.
+If you find my work valuable, ⭐️ star my repositories!
 
-## 🤝 Contribution and Feedback
-
-🚀 **Explore my repositories** for exciting projects in **Data Science, MLOps, and IT solutions**.  
-✨ If you like my work, don’t forget to **⭐️ star** my repositories!  
-
-💡 I'm always open to **collaboration** and **feedback** to make my projects even better. Let’s build something amazing together!
+Open to collaboration, feedback, and new opportunities in DevOps.
 
 ---
 
