@@ -51,6 +51,21 @@ Most of this is in private repos, but here's what I've been focused on during th
 
 ---
 
+## Graduation thesis *(in progress)*
+
+**When Does Kubernetes Become Worth It?**  
+*Jensen Yrkeshögskola — DevOps Engineer programme, May 2026*
+
+An empirical study of what actually happens — to reliability, stability, and execution speed — when a Dagster workflow orchestration system is migrated from a single-VM process executor to a Kubernetes Run Launcher under increasing concurrent workload.
+
+The central question: at what specific concurrency level does Kubernetes become net beneficial, despite its scheduling overhead? I call this the **crossover point**, and measuring it precisely is the core contribution.
+
+Three controlled experiments, six concurrency levels, local infrastructure (Multipass VM vs. Kind cluster), with optional GKE validation. The design draws directly on the `K8sRunLauncher` spike I ran during the internship.
+
+> *Stack: Dagster · Kubernetes · Kind · GKE · Helm · Multipass · Python · Docker*
+
+---
+
 ## Sponsor this work ❤️
 
 GitHub Sponsors is enabled on this account.
