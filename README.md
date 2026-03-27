@@ -78,15 +78,6 @@ I'm at the start of my career and building everything in public as I go. Every s
 
 ---
 
-## Stats
-
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sirajwahaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirajwahaj&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## Education
 
 **DevOps Engineer** — Jensen Yrkeshögskola, Sweden *(2024 – 2026)*  
